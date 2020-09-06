@@ -1,0 +1,1 @@
+print("Lets begin with AI Journey!!!")
